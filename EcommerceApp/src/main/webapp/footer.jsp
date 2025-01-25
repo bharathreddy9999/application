@@ -49,7 +49,7 @@
 	</div>
 	</div>
 	<br>
-	<p>© 2022 Online Electronic Shopping Made By Swapnil Bamble.</p>
+	<p>ï¿½ 2024 Online Electronic Shopping Made By Bharath.</p>
 </center>
 
 
